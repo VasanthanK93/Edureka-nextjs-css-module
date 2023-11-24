@@ -1,0 +1,15 @@
+.postPreview {
+    margin-bottom: 1rem;
+    background-color: azure;
+  }
+  
+  .title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .excerpt {
+    color: #666;
+  }

@@ -1,0 +1,74 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introduction to Next.js",
+            "excerpt": "Learn the basics of Next.js and get started with your first project.",
+            "content": "Full article content goes here...",
+            "slug": "introduction-to-next-js"
+        },
+        {
+            "id": 2,
+            "title": "CSS Modules in Next.js",
+            "excerpt": "Discover the benefits of using CSS Modules in your Next.js applications.",
+            "content": "Full article content goes here...",
+            "slug": "css-modules-in-next-js"
+        },
+        {
+            "id": 3,
+            "title": "Styling and Layout in Next.js",
+            "excerpt": "Learn the Styling and Layout in Next.js",
+            "content": "Full article content goes here...",
+            "slug": "styling-and-layout"
+        },
+        {
+            "id": 4,
+            "title": "Styled JSX",
+            "excerpt": "Discover the concept of Styled JSX.",
+            "content": "Full article content goes here...",
+            "slug": "styled-jsx-in-next-js"
+        },
+        {
+            "id": 5,
+            "title": "Data Fetching and API",
+            "excerpt": "Learn the basics of Data Fetch and API Implementation in Next.js",
+            "content": "Full article content goes here...",
+            "slug": "data-fetching-next-js"
+        },
+        {
+            "id": 6,
+            "title": "Pagination in Next.js",
+            "excerpt": "Discover the benefits of Pagination in your Next.js applications.",
+            "content": "Full article content goes here...",
+            "slug": "pagination-in-next-js"
+        },
+        {
+            "id": 7,
+            "title": "Implementing Search in Next.js",
+            "excerpt": "Learn the implementation of Search in Next.js",
+            "content": "Full article content goes here...",
+            "slug": "implementing-search-next-js"
+        },
+        {
+            "id": 8,
+            "title": "Dynamic Routing in Next.js",
+            "excerpt": "Discover the benefits of using Dynamic Routing and Dynamic Imports in your Next.js applications.",
+            "content": "Full article content goes here...",
+            "slug": "dynamic-routing-in-next-js"
+        },
+        {
+            "id": 9,
+            "title": "Dynamic Imports in Next.js",
+            "excerpt": "Discover the benefits of using Dynamic Routing and Dynamic Imports in your Next.js applications.",
+            "content": "Full article content goes here...",
+            "slug": "dynamic-import-in-next-js"
+        },
+        {
+            "id": 10,
+            "title": "Advanced Topics in Next.js",
+            "excerpt": "Discover the Advanced topics in Next.js applications.",
+            "content": "Full article content goes here...",
+            "slug": "advanced-topics-in-next-js"
+        }
+    ]
+}
